@@ -1,0 +1,8 @@
+.sidebar {
+    margin: 0 auto;
+    padding: 100px 20px;
+
+    @media screen and (max-width: 660px) {
+        padding: 50px 20px;
+     }
+}

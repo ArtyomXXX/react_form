@@ -1,0 +1,7 @@
+.login-page {
+    display: flex;
+
+    @media screen and (max-width: 660px) {
+       flex-direction: column;
+    }
+}
